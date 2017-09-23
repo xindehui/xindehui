@@ -1,0 +1,14 @@
+{
+    "name": "yuanz/ce",
+    "description": "this is test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yuanping1995",
+            "email": "1019979673@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
