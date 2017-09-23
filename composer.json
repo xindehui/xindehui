@@ -1,0 +1,19 @@
+{
+  "name": "xindehi/xindehui",
+  "description": "测试",
+  "type": "project",
+  "homepage": "http://m.bxgogo.com",
+  "license": "MIT",
+    "keywords": [
+    "xindehui",
+    "鑫德汇"
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "xindehui\\": "./Xindehui"
+    }
+  }
+}
